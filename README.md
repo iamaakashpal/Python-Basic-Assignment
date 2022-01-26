@@ -15,3 +15,4 @@ Python Basic Assignment from ineuron.ai
 12. Assignment 10 SUBMITTED -- DONE
 13. Assignment 16 SUBMITTED
 14. Assignment 24 SUBMITTED
+15. Assignment 18 SUBMITTED
