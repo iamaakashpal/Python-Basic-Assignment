@@ -16,3 +16,5 @@ Python Basic Assignment from ineuron.ai
 13. Assignment 16 SUBMITTED
 14. Assignment 24 SUBMITTED
 15. Assignment 18 SUBMITTED
+16. Assignment 21 SUBMITTED
+17. Assignment 17 SUBMITTED
