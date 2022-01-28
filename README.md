@@ -20,4 +20,4 @@ Python Basic Assignment from ineuron.ai
 17. Assignment 17 SUBMITTED -- DONE
 18. Assignment 15 SUBMITTED -- DONE
 19. Assignment 11 SUBMITTED -- DONE
-20. Assignment 7 SUBMITTED
+20. Assignment 7 SUBMITTED -- DONE
